@@ -3,8 +3,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
-    color: #333;
+    background-color: skyblue;
+    color: grey;
   }
   
   header {
@@ -42,13 +42,13 @@ body {
   
   aside {
     flex: 1;
-    background-color: #eee;
+    background-color: cyan;
     padding: 1rem;
   }
   
   /* Blog Cards */
   article {
-    background-color: white;
+    background-color: lightcyan;
     padding: 1rem;
     margin-bottom: 1rem;
     border-radius: 8px;
